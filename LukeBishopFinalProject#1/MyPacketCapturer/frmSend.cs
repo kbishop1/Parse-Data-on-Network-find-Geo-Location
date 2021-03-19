@@ -45,7 +45,7 @@ namespace MyPacketCapturer
             }
             catch(Exception exp)
             {
-                System.out.print("Exception found! Tommy fires you" );
+                Console.WriteLine("Exception found! Tommy fires you" );
             }
         }
 
