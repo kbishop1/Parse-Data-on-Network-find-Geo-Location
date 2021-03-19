@@ -172,7 +172,7 @@ namespace MyPacketCapturer
             }
             catch (Exception exp)
             {
-
+                Console.WriteLine("Exception found! Tommy fires you" );
             }
         }
 
